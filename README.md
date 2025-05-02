@@ -63,8 +63,12 @@ while True:
 ```
 
 ## Output
+PING command:
 
 ![Screenshot 2025-04-17 141323](https://github.com/user-attachments/assets/0c4ff9f0-9592-44b7-8e38-db7744c079a7)
+
+TRACEROUTE command:
+![image](https://github.com/user-attachments/assets/0743fcd9-19f3-4ef8-b31d-0bdd8dc96c5c)
 
 
 ## Result
